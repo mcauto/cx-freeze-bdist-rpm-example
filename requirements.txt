@@ -1,0 +1,11 @@
+-i https://pypi.org/simple
+bcrypt==3.2.0; python_version >= '3.6'
+cffi==1.14.5
+cryptography==3.4.7; python_version >= '3.6'
+cx-freeze==6.6
+importlib-metadata==4.0.1; python_version >= '3.6'
+paramiko==2.7.2
+pycparser==2.20; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'
+pynacl==1.4.0; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'
+six==1.16.0; python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3'
+zipp==3.4.1; python_version >= '3.6'
